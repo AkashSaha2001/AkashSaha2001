@@ -3,12 +3,10 @@
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsaha2001&label=Profile%20views&color=0e75b6&style=flat" alt="akashsaha2001" /> </p>
 
-
 - 🌱 I’m currently learning **JavaScript , Bootstrap**
 
 - 📫 How to reach me **mr.akashsaha574@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HtuR1h5pZKE6oyxbGLF1IGF3V4Uzs9a6/view?usp=drivesdk](https://drive.google.com/file/d/1HtuR1h5pZKE6oyxbGLF1IGF3V4Uzs9a6/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
