@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working JavaScript<br>Computer Science enthusiast <br>Diploma in Computer Science and Technology (8.5 OGPA) from Kingston Education Institute <br>Currently pursuing Bachelors in Computer Science and Engineering at Techno International Newtown <br>Passionate about exploring diverse programming languages and frameworks to expand skill set <br>
+Computer Science enthusiast <br>Diploma in Computer Science and Technology (8.5 OGPA) from Kingston Education Institute <br>Currently pursuing Bachelors in Computer Science and Engineering at Techno International Newtown <br>Passionate about exploring diverse programming languages and frameworks to expand skill set <br>
 
 
 ## 🌐 Socials:
